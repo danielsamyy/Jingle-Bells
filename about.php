@@ -42,7 +42,7 @@
          Together, let's make this Christmas season truly unforgettable!</i>
     </p>
     <div>
-        <a href="index.php"><button><i>Read more..</i></button></a>
+        <a href="index.php"><button><i>Read more...</i></button></a>
     </div>
     
 
