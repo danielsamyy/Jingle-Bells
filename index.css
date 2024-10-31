@@ -1,0 +1,42 @@
+body{
+    background-image: url('images/blury.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a {
+    display: inline-block;
+    width: 140px;
+    text-decoration:none ;
+    padding: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+}
+nav{
+    background-color: #BF0505;
+    height: 50px;
+}
+nav ul li a:hover{
+    background-color:rgb(5, 116, 5);
+    font-weight: bolder;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+    margin-left: 500px;
+    font-family:"Great Vibes", cursive;
+    font-size: 50px;
+}
