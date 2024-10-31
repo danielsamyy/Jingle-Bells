@@ -1,0 +1,94 @@
+body{
+    background-color: bisque;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a {
+    display: inline-block;
+    width: 140px;
+    text-decoration:none ;
+    padding: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
+nav{
+    background-color: #BF0505;
+    margin-bottom: 50px;
+}
+nav ul li a:hover{
+    background-color:rgb(5, 116, 5);
+    font-weight: bolder;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    margin-left: 650px;
+    color: #BF0505;
+    font-family:"Great Vibes", cursive;
+}
+h1{
+    margin-left: 650px;
+    font-family:"Great Vibes", cursive;
+}
+table{
+    float: left;
+    margin-right: 60px;
+    padding-bottom: 30px;
+}
+p{
+    display: inline;
+    margin-left: 50px;
+    margin-top: 80px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+a button {
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+    
+ }
+ button{
+    height: 40px;
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 100px;
+    background-color: #BF0505;
+ }
+ a button:hover{
+    background-color: rgb(9, 113, 9);
+    font-family: cursive;
+    cursor: pointer;
+ }
+
+
+#first img{
+    margin-left: 46px;
+    box-shadow: 0 0 10px rgba(0,0, 0, 1) ;
+}
+#second img{
+    margin-left: 25px;
+    box-shadow: 0 0 10px rgba(0,0, 0, 1) ;
+    margin-top: 50px;
+}
+#third img{
+    margin-left: 100px;
+    box-shadow: 0 0 10px rgba(0,0, 0, 1) ;
+    margin-bottom: 33px;
+}
+#fourth img{
+    margin-left: 30px;
+    box-shadow: 0 0 10px rgba(0,0, 0, 1) ;
+    margin-top: 20px;
+}
